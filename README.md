@@ -6,7 +6,7 @@
 ## 実践！ 強化学習・画像認識・自然言語処理・ロボティクス
 
 <center>
-![](https://www.seminar-info.jp/entry/img/logo_ov.jpg)
+[セミナーインフォ](https://www.seminar-info.jp/entry/img/logo_ov.jpg)
 </center>
 
 <div align='right'>
